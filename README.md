@@ -14,13 +14,14 @@ After creating a new table using the COUNTIFS and SUM functions, the analysis of
 
 ![Outcomes_vs_Goals](https://github.com/dkleitsch/Kickstarting_with_Excel/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
-
+I encountered a challenge in making the line chart for the outcomes based on funding goals section of this project.  I assumed I needed to make a pivot table in order to create the chart, which turned out not to be the case.  I spent a while trying to get the pivot table to work.  Finally, I decided to try making a chart without a pivot table and I got Excel to create the chart.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+The month of May had the highest number of successful campaigns, followed closely by June.  There was a bigger variance in the number of successful campaigns based on launch date than there was in the variance of failed campaigns.  
 - What can you conclude about the Outcomes based on Goals?
-
+Generally, the lower the fundraising goal, the more likely a campaign is going to be successful.
 - What are some limitations of this dataset?
-
+One limitation of this dataset is that it only focuses on Kickstarter data.  There are many other crowdfunding websites that may offer different insights into crowdfunding.  
 - What are some other possible tables and/or graphs that we could create?
+Column or bar charts could be used to display this data as well, especially for the outcomes based on goals.
