@@ -11,6 +11,7 @@ Using Excel pivot tables and pivot charts, the analysis of theater outcomes base
 ![Theater_Outcomes_vs_Launch](https://github.com/dkleitsch/Kickstarting_with_Excel/blob/main/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 After creating a new table using the COUNTIFS and SUM functions, the analysis of theater outcomes based on funding goals was completed.  The number and percentage of successful, failed, and canceled campaigns were calculated and then the percentages were displayed in a line chart. The results of the analysis can be found in [Kickstarter_Challenge](https://github.com/dkleitsch/Kickstarting_with_Excel/blob/main/Kickstarter_Challenge.zip).
+
 ![Outcomes_vs_Goals](https://github.com/dkleitsch/Kickstarting_with_Excel/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
