@@ -7,7 +7,7 @@ The purpose of this project was to assist Louise in improving the outcome of her
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+Using Excel pivot tables and pivot charts, the analysis of theater outcomes based on launch date was completed.  The results of the analysis can be found in [Kickstarter_Challenge](
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
